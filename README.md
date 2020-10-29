@@ -249,7 +249,7 @@ Assuming the Visual Studio key bindings are used
 
 ```Ctrl+F12``` - Go to implementation
 
-```Ctrl+Shift+Bkspce - Go back
+```Ctrl+Shift+Bkspce``` - Go back
 
 # Visual Studio Fundamentals
 
