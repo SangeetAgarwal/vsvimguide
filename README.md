@@ -247,6 +247,9 @@ Assuming the Visual Studio key bindings are used
 
 ```Alt+Enter``` - Context aware Actions / Quick fixes / transformations
 
+```Ctrl+F12``` - Go to implementation
+
+```Ctrl+Shift+Bkspce - Go back
 
 # Visual Studio Fundamentals
 
